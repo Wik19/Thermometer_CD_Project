@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "86e66206-cd90-45fa-99d4-b50e6865cb8b")
+	(uuid "7143cf94-211c-47be-892b-538afdf04815")
 	(paper "A4")
 	(lib_symbols
 		(symbol "BMS_LV_2022-rescue:+3.3V-power"
@@ -470,6 +470,12 @@
 			)
 		)
 	)
+	(junction
+		(at 113.03 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b34ed88a-efc6-4510-ab53-155883f98f82")
+	)
 	(wire
 		(pts
 			(xy 146.05 68.58) (xy 143.51 68.58)
@@ -559,6 +565,16 @@
 			(type default)
 		)
 		(uuid "f5276a5d-f126-4763-bf76-bf78a467df7f")
+	)
+	(wire
+		(pts
+			(xy 113.03 71.12) (xy 113.03 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7762580-be3c-4e49-a373-2400395d19d4")
 	)
 	(label "T+"
 		(at 113.03 68.58 0)
