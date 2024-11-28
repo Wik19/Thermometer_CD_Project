@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "S8421-45R")(type "KiCad")(uri "${KIPRJMOD}/imported/S8421-45R/KiCad/S8421-45R.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX6675ISA+")(type "KiCad")(uri "${KIPRJMOD}/imported/MAX6675ISA+/KiCad/MAX6675ISA+.kicad_sym")(options "")(descr ""))
+)
