@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OS102011MS2QS1
+D SWITCH SLIDE SPDT 100MA 12V
+K
+F https://www.ckswitches.com/media/1428/os.pdf
+$ENDCMP
+#
+#End Doc Library

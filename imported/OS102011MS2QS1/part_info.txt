@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=OS102011MS2QS1
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=5.2
+Released=2017-11-19 12:40:38
+Downloaded=2024-11-28 20:27:16
+3D=Y

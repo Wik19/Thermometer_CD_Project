@@ -1,0 +1,16 @@
+.OS102011MS2QS1 :1 ;SWITCH SLIDE SPDT 100MA 12V
+OS102011MS2QS1
+*STM S
+*NGS
+*PLB 1="NO" 2="COM" 3="NC" 4="MH1" 5="MH2"
+*MXP 5
+*DFN OS102011MS2QS1
+~!Mouser Part Number (611-OS102011MS2QS1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CK/OS102011MS2QS1?qs=WtljUlYws5TrGs9OfHrZYw%3D%3D)
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (OS102011MS2QS1)
+~!Link Datasheet (https://www.ckswitches.com/media/1428/os.pdf)
+~!Height (8mm)
+~!3D_Model (OS102011MS2QS1)
+OS102011MS2QS1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
