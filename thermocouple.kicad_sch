@@ -1161,7 +1161,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3b647c3d-2166-4688-9c1b-3ce2e06ddfbe")
+		(uuid "372bb312-f792-4663-8145-aad06bcfae0d")
 		(property "Reference" "C14"
 			(at 105.6132 68.6816 0)
 			(effects
@@ -1180,7 +1180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 107.95 69.85 0)
 			(effects
 				(font
@@ -1208,10 +1208,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7685995d-d645-4641-9531-226113fad7c3")
+			(uuid "771575a2-6b85-4d8b-af1b-7185b47b14de")
 		)
 		(pin "2"
-			(uuid "0473ca38-cdfb-4dd7-b573-8f8bd226c8a6")
+			(uuid "fbf0fbae-7d76-4ddd-b0fa-e7e890c41c91")
 		)
 		(instances
 			(project "Thermometer_CD_Project"
@@ -1314,7 +1314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x01_P1.27mm_Vertical"
 			(at 86.36 68.58 0)
 			(effects
 				(font

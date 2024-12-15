@@ -1,0 +1,109 @@
+(footprint "battery_holder_S8421-custom"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -16 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c306c727-195e-4e09-a5c3-55a3c13dcca5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "battery_holder_S8421-custom"
+		(at 0 -14.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "26fe75cf-cf5f-491c-a0c1-a397f8373f46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 -15.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4226366b-c339-4105-b9ca-e256ff5a4713")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -15.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92fa0e06-f116-4081-9545-9c17961a7e91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 -15.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60c58f33-d6d5-4aa7-a72e-8b4d125b1daf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -8 -12)
+		(end 8 12)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "cfb8e741-e974-4cd1-8698-8da04b8d77d0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -13 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "af6ae0eb-7d1c-47f1-b083-279ec17d22b2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0 12)
+		(size 3.6 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "dbb55ce8-b9d1-4297-82cc-ec113ae4a06e")
+	)
+	(pad "2" smd roundrect
+		(at 0 -9.3)
+		(size 2.6 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "403a683f-84bb-4da9-a253-d447da7545a5")
+	)
+)

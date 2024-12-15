@@ -1,0 +1,9 @@
+Manufacturer=Harwin
+PartNumber=S8421-45R
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2016-12-19 11:38:56
+Downloaded=2024-12-04 18:32:52
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX6675ISA_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX6675ISA+" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "700-MAX6675ISA", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX6675ISA%2b?qs=1THa7WoU59H74vpgspkIMw%3D%3D", "MAX6675ISA+, 12bit Temperature Sensor +/-6C Serial-SPI 3 to 5.5V 8-Pin SOIC", "http://datasheets.maximintegrated.com/en/ds/MAX6675.pdf", "1.75 mm"
+END_PART
+
+END.

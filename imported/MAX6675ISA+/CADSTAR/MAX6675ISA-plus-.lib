@@ -1,0 +1,16 @@
+.MAX6675ISA-plus- :1 ;MAX6675ISA+, 12bit Temperature Sensor +/-6C Serial-SPI 3 to 5.5V 8-Pin SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="GND" 2="T-" 3="T+" 4="VCC" 5="SCK" 6="'CS'" 7="SO" 8="N.C."
+*MXP 8
+*DFN MAX6675ISA-plus-
+~!Mouser Part Number (700-MAX6675ISA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX6675ISA%2b?qs=1THa7WoU59H74vpgspkIMw%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX6675ISA+)
+~!Link Datasheet (http://datasheets.maximintegrated.com/en/ds/MAX6675.pdf)
+~!Height (1.75mm)
+~!3D_Model (MAX6675ISA+)
+MAX6675ISA-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

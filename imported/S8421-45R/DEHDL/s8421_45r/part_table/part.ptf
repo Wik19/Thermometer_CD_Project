@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S8421_45R'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Harwin", "S8421-45R" (!) = "", "S8421-45R_1", "Other", "855-S8421-45R", "https://www.mouser.co.uk/ProductDetail/Harwin/S8421-45R?qs=Qom7kyPojXY6z0Gmx3V3RQ%3D%3D", "Coin Cell Battery Retainer, Horizontal SMT, for CR2032 Coin Cell Batteries", "https://cdn.harwin.com/pdfs/S8421R.pdf"
+END_PART
+
+END.
