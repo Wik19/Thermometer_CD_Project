@@ -2171,7 +2171,7 @@
 			(uuid "84b177d5-c7e7-4940-b325-030ff821ddac")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328/3440173f-336e-40a8-8759-7c1d97e5239a"
 					(reference "#FLG04")
 					(unit 1)
@@ -2360,7 +2360,7 @@
 			(uuid "97c6222a-2d1f-4197-8ad7-04c3a51e5c7a")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328/3440173f-336e-40a8-8759-7c1d97e5239a"
 					(reference "IC2")
 					(unit 1)
@@ -2494,7 +2494,7 @@
 			(uuid "2721dbe0-ef93-4e21-b191-90bdbbd523be")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328/3440173f-336e-40a8-8759-7c1d97e5239a"
 					(reference "#PWR03")
 					(unit 1)
@@ -2560,7 +2560,7 @@
 			(uuid "e2ccaab0-b7eb-4397-a91b-d9993622acee")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328/3440173f-336e-40a8-8759-7c1d97e5239a"
 					(reference "#PWR014")
 					(unit 1)
@@ -2667,7 +2667,7 @@
 			(uuid "061ff87d-4da6-44e6-965c-57654711e270")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328/3440173f-336e-40a8-8759-7c1d97e5239a"
 					(reference "J3")
 					(unit 1)

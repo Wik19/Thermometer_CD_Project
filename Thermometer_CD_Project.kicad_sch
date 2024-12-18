@@ -3128,7 +3128,7 @@
 			(uuid "123bd858-e6ed-4e14-b724-5b6f95f5c868")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328"
 					(reference "U2")
 					(unit 1)
@@ -3606,7 +3606,7 @@
 			(uuid "d9cd14e2-8e3e-47a0-8c43-014f5c9f2906")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328"
 					(reference "U3")
 					(unit 1)
@@ -3876,7 +3876,7 @@
 			(uuid "85cce965-9d19-4a3a-8e8d-7906951caccb")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328"
 					(reference "#PWR04")
 					(unit 1)

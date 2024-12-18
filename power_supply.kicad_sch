@@ -2864,7 +2864,7 @@
 			(uuid "34452d9c-09d9-47f8-b5b3-a2ccab5128f3")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328/a44a4d5a-dc46-4091-8f11-f6df5acce76a"
 					(reference "#FLG02")
 					(unit 1)

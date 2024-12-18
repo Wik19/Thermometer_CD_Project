@@ -1348,7 +1348,7 @@
 			(uuid "092a38fe-d91f-4986-b095-ced2497e9428")
 		)
 		(instances
-			(project ""
+			(project "Thermometer_CD_Project"
 				(path "/a65a7196-8a90-49cc-8818-2434ed6db328/32072c44-f038-4df9-931e-593faa7619f7"
 					(reference "J1")
 					(unit 1)
