@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UJ32_C_H_G_DSMT_3_P24_TR'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Same Sky", "UJ32-C-H-G-DSMT-3-P24-TR" (!) = "", "UJ32CHGDSMT3P24TR", "Other", "179-UJ32CHGDST3P24TR", "https://www.mouser.co.uk/ProductDetail/Same-Sky/UJ32-C-H-G-DSMT-3-P24-TR?qs=IKkN%2F947nfBrW9%252BSQhjOYA%3D%3D", "Type C, USB 3.2, 5 Gbps, 48 Vac, 5 A, Horizontal, Gold plated 3u, Dip Surface Mount, Spring Post, 24 pin, USB Receptacle", "https://www.sameskydevices.com/product/resource/supplyframepdf/uj32-c-h-g-dsmt-3-p24-tr.pdf", "3.36 mm"
+END_PART
+
+END.

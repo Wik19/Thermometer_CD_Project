@@ -5,4 +5,5 @@
   (lib (name "OS102011MS2QS1")(type "KiCad")(uri "${KIPRJMOD}/imported/OS102011MS2QS1/KiCad/OS102011MS2QS1.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-PICO-D4")(type "KiCad")(uri "${KIPRJMOD}/imported/ESP32-PICO-D4/ESP32-PICO-D4.kicad_sym")(options "")(descr ""))
   (lib (name "CP2102N-A02-GQFN24")(type "KiCad")(uri "${KIPRJMOD}/imported/CP2102N-A02-GQFN24/KiCad/CP2102N-A02-GQFN24.kicad_sym")(options "")(descr ""))
+  (lib (name "UJ32-C-H-G-DSMT-3-P24-TR")(type "KiCad")(uri "${KIPRJMOD}/imported/UJ32-C-H-G-DSMT-3-P24-TR/KiCad/UJ32-C-H-G-DSMT-3-P24-TR.kicad_sym")(options "")(descr ""))
 )

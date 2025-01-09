@@ -8,4 +8,5 @@
   (lib (name "OS102011MS2QS1")(type "KiCad")(uri "${KIPRJMOD}/imported/OS102011MS2QS1")(options "")(descr ""))
   (lib (name "744042001")(type "KiCad")(uri "${KIPRJMOD}/imported/744042001")(options "")(descr ""))
   (lib (name "CP2102N-A02-GQFN24")(type "KiCad")(uri "${KIPRJMOD}/imported/CP2102N-A02-GQFN24")(options "")(descr ""))
+  (lib (name "UJ32-C-H-G-DSMT-3-P24-TR")(type "KiCad")(uri "${KIPRJMOD}/imported/UJ32-C-H-G-DSMT-3-P24-TR")(options "")(descr ""))
 )
