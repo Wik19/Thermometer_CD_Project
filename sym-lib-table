@@ -1,9 +1,10 @@
 (sym_lib_table
   (version 7)
   (lib (name "S8421-45R")(type "KiCad")(uri "${KIPRJMOD}/imported/S8421-45R/KiCad/S8421-45R.kicad_sym")(options "")(descr ""))
-  (lib (name "MAX6675ISA+")(type "KiCad")(uri "${KIPRJMOD}/imported/MAX6675ISA+/KiCad/MAX6675ISA+.kicad_sym")(options "")(descr ""))
   (lib (name "OS102011MS2QS1")(type "KiCad")(uri "${KIPRJMOD}/imported/OS102011MS2QS1/KiCad/OS102011MS2QS1.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-PICO-D4")(type "KiCad")(uri "${KIPRJMOD}/imported/ESP32-PICO-D4/ESP32-PICO-D4.kicad_sym")(options "")(descr ""))
   (lib (name "CP2102N-A02-GQFN24")(type "KiCad")(uri "${KIPRJMOD}/imported/CP2102N-A02-GQFN24/KiCad/CP2102N-A02-GQFN24.kicad_sym")(options "")(descr ""))
-  (lib (name "UJ32-C-H-G-DSMT-3-P24-TR")(type "KiCad")(uri "${KIPRJMOD}/imported/UJ32-C-H-G-DSMT-3-P24-TR/KiCad/UJ32-C-H-G-DSMT-3-P24-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX6675ISA+")(type "KiCad")(uri "${KIPRJMOD}/imported/MAX6675ISA+/MAX6675ISA+.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD4S012DRYR")(type "KiCad")(uri "${KIPRJMOD}/imported/TPD4S012DRYR/TPD4S012DRYR.kicad_sym")(options "")(descr ""))
+  (lib (name "UJ20-C-V-C-1-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/imported/UJ20-C-V-C-1-SMT-TR/UJ20-C-V-C-1-SMT-TR.kicad_sym")(options "")(descr ""))
 )

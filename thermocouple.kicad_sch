@@ -1040,7 +1040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "MAX6675ISA+:SOIC127P600X175-8N"
 			(at 139.7 160.96 0)
 			(effects
 				(font

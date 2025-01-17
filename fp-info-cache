@@ -1,4 +1,4 @@
-24192778280582383
+24199718668476340
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2568,6 +2568,13 @@ speaker CUI
 0
 2
 2
+CP2102N-A02-GQFN24
+QFN50P400X400X80-25N-D
+QFN24 *
+Integrated Circuit
+0
+25
+25
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -65253,6 +65260,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MAX6675ISA+
+SOIC127P600X175-8N
+8 SO (150 mils)
+Integrated Circuit
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -91566,6 +91580,13 @@ Logo WEEE
 0
 0
 0
+TPD4S012DRYR
+TPD4S012DRYR
+TPD4S012DRYR-3
+Integrated Circuit
+0
+6
+6
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -97201,6 +97222,13 @@ igbt diode module
 0
 25
 25
+UJ20-C-V-C-1-SMT-TR
+UJ20CVC1SMTTR
+UJ20-C-V-C-1-SMT-TR-1
+Connector
+0
+20
+20
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

@@ -1,9 +1,0 @@
-Manufacturer=Same Sky
-PartNumber=UJ32-C-H-G-DSMT-3-P24-TR
-PartCategory=Connector
-PackageCategory=Other
-PinCount=28
-Version=3.5
-Released=2024-11-11 09:19:24
-Downloaded=2025-01-09 00:26:44
-3D=Y

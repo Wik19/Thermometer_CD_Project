@@ -1,9 +1,0 @@
-Manufacturer=Kyocera AVX
-PartNumber=0402X7R104KT7AT
-PartCategory=Capacitor
-PackageCategory=Capacitor Chip Non-polarised
-PinCount=2
-Version=1.1
-Released=2023-05-17 11:54:49
-Downloaded=2024-12-05 16:54:21
-3D=Y

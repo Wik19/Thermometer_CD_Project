@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 0402X7R104KT7AT
-D Ceramic Capacitor, Multilayer, Ceramic, 16V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.1uF, Surface Mount, 0402
-K
-F https://www.mouser.es/datasheet/2/40/general_purpose-3169586.pdf
-$ENDCMP
-#
-#End Doc Library
