@@ -1,0 +1,36 @@
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,No,Reference,Qty,Value,Name,Footprint,Description,Vendor,Unit price (1 pc.),Price (1 PCB),Unit price (10 pcs.),Price (10 PCB),Unit price (100 pcs.),Price (100 PCB),Link
+,,1,"C1,C2,C3,C4,C5,C6,C13,C14",8,100nF,C,Capacitor_SMD:C_0402_1005Metric,unpolarized capacitor,mouser,"1,55","12,4","1,02","81,6","0,615",492,0402X7R104KT2AT KYOCERA AVX | Mouser Polska
+,,2,"C7,C10,C11,C12",4,22u,C,Capacitor_SMD:C_0402_1005Metric,unpolarized capacitor,mouser,"2,45","9,8","1,67","66,8","1,1",440,04024W226MAT2A KYOCERA AVX | Mouser Polska
+,,3,"C8,C15,C18",3,0.1u,C,Capacitor_SMD:C_0402_1005Metric,unpolarized capacitor,mouser,"1,55","4,65","1,02","30,6","0,615","184,5",0402X7R104KT2AT KYOCERA AVX | Mouser Polska
+,,4,C9,1,10p,C,Capacitor_SMD:C_0402_1005Metric,unpolarized capacitor,mouser,"0,452","0,452","0,185","1,85","0,12",12,VJ0402A100KXAPW1BC Vishay / Vitramon | Mouser Polska
+,,5,"C16,C17",2,4.7u,C,Capacitor_SMD:C_0402_1005Metric,unpolarized capacitor,mouser,"0,86","1,72","0,581","11,62","0,292","58,4",C0402C475K8PACTU KEMET | Mouser Polska
+,,6,IC1,1,MAX6675ISA+,MAX6675ISA+,MAX6675ISA+:SOIC127P600X175-8N,Thermocouple to Digital Converter,mouser,"62,22","62,22","55,3",553,"51,99",5199,MAX6675ISA+ Analog Devices / Maxim Integrated | Mouser Polska
+,,7,IC2,1,CP2102N-A02-GQFN24,CP2102N-A02-GQFN24,QFN50P400X400X80-25N-D,USB-to-UART bridge IC,mouser,"18,15","18,15","10,75","107,5","9,85",985,CP2102N-A02-GQFN24 Silicon Labs | Mouser Polska
+,,8,IC3,1,TPD4S012DRYR,TPD4S012DRYR,TPD4S012DRYR,ESD Protection Diode,mouser,"2,82","2,82","1,88","18,8","1,29",129,TPD4S012DRYR Texas Instruments | Mouser Polska
+,,9,J1,1,Screw_Terminal_01x02,Screw_Terminal_01x02,Connector_PinHeader_1.27mm:PinHeader_2x01_P1.27mm_Vertical,screw terminal,mouser,"2,37","2,37","0,864","8,64","0,679","67,9",TB001-500-02BE Same Sky | Mouser Polska
+,,10,J2,1,S8421-45R,S8421-45R,S8421-45R:battery_holder_S8421-custom,battery holder,mouser,"6,58","6,58","4,82","48,2","4,25",425,S8421-45R Harwin | Mouser Polska
+,,11,J3,1,UJ20-C-V-C-1-SMT-TR,UJ20-C-V-C-1-SMT-TR,UJ20-C-V-C-1-SMT-TR:UJ20CVC1SMTTR,USB Connector Type C,mouser,"5,68","5,68","4,77","47,7","4,34",434,UJ20-C-H-G-SMT-TR Same Sky | Mouser Polska
+,,12,L1,1,10u,L,Inductor_SMD:L_0603_1608Metric,inductor,mouser,"0,409","0,409","0,374","3,74","0,267","26,7",MLZ1608E100MT TDK | Mouser Polska
+,,13,L2,1,1u,L,Inductor_SMD:L_Wuerth_WE-TPC-3816,inductor,farnell,"5,34","5,34","5,34","53,4","4,38",438,"744031010 WURTH ELEKTRONIK, Cewka mocy (SMD), 1 µH, 2 A, Osłonięte, 1.6 A, WE-TPC Series | Farnell Polski"
+,,14,R1,1,560k,R,Resistor_SMD:R_0402_1005Metric,resistor,mouser,"0,409","0,409","0,056","0,56","0,039","3,9",CRCW0402560KFKED Vishay / Dale | Mouser Polska
+,,15,R2,1,100k,R,Resistor_SMD:R_0402_1005Metric,resistor,mouser,"0,409","0,409","0,069","0,69","0,043","4,3",CRCW0402100KFKED Vishay / Dale | Mouser Polska
+,,16,R3,1,1M,R,Resistor_SMD:R_0402_1005Metric,resistor,mouser,"0,697","0,697","0,456","4,56","0,176","17,6",CRCW04021M00JNTD Vishay / Dale | Mouser Polska
+,,17,"R4,R5",2,4k7,R,Resistor_SMD:R_0402_1005Metric,resistor,mouser,"0,409","0,818","0,06","1,2","0,043","8,6",CRCW04024K70FKED Vishay / Dale | Mouser Polska
+,,18,"R6,R7",2,5.1k,R,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,resistor,mouser,"0,697","1,394","0,456","9,12","0,176","35,2",CRCW04025K10JNTD Vishay / Dale | Mouser Polska
+,,19,R8,1,1k,R,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,resistor,mouser,"1,27","1,27","1,03","10,3","0,404","40,4",CRCW04021K00FHTDP Vishay / Dale | Mouser Polska
+,,20,R9,1,22.1k,R,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,resistor,mouser,"0,409","0,409","0,069","0,69","0,043","4,3",CRCW040222K1FKED Vishay / Dale | Mouser Polska
+,,21,R10,1,47.5k,R,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,resistor,mouser,"0,409","0,409","0,069","0,69","0,039","3,9",CRCW040247K5FKED Vishay / Dale | Mouser Polska
+,,22,S1,1,OS102011MS2QS1,OS102011MS2QS1,KiCad:OS102011MS2QS1,Slide Switch SPDT On-On,mouser,"2,33","2,33","1,85","18,5","1,51",151,OS102011MS2QS1 C&K | Mouser Polska
+,,23,U2,1,ESP32-PICO-D4,ESP32-PICO-D4,Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm,MCU,mouser,"18,4","18,4","18,4",184,"18,4",1840,ESP32-PICO-D4 Espressif Systems | Mouser Polska
+,,24,U3,1,OLED-disp,OLED-disp,Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical,Oled display,mouser,"27,61","27,61","27,61","276,1","27,61",2761,CS-ANAVI-DISPLAY-1 ANAVI Technology | Mouser Polska
+,,25,U4,1,TPS63060,TPS63060,Package_SON:Texas_S-PWSON-N10_ThermalVias,Buck-Boost Converter,mouser,"7,05","7,05","5,63","56,3","5,33",533,TPS63060DSCR Texas Instruments | Mouser Polska
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,Total (1),For 1 PCB,Total (10),For 1 PCB,Total (100),For 1 PCB,
+,,,,,,,,,Total cost of components ,"193,796","193,796","1596,16","159,616","14294,7","142,947",
+,,,,,,,*Minimal order of PCB boards is 5,,Cost of manufacturing,"13,25","13,25","26,09","2,609","78,7","0,787",
+,,,,,,,**there is no discount when ordering 10 or 100 pcs. of ESP32 and OLED display,,Total cost ,"207,046","207,046","1622,25","162,225","14373,4","143,734",
